@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/
+artifacts/
+.ivy2/
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
